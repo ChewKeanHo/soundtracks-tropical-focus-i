@@ -15,27 +15,30 @@ Let's get back to business and focus more on creating video backing timeless sou
 Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAheE_33Hug7PwAOZmNcGhF_
 Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjlFJMmnpXUO6EWpG8b5ety
 
+
 § METADATA
 ━━━━━━━━━━
 Music made in: https://www.udio.com/
 Project by: (Holloway) Chew, Kean Ho
 Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Repository: https://github.com/ChewKeanHo/soundtracks-tropical-focus-i
+
 
 § FAQ
 ━━━━━
 (1) Can I use this music for my video?
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-**BETTER NOT**.
+**Sorry. BETTER NOT. Very risky.**
 
-I'm deploying Udio with the "Cyborg Approach" which means I'm still in full control and the A.I. is only augmenting my natural capabilities.
+As of year 2025, the copyright for A.I output content is very murky in both East and West nations.
+
+I deployed Udio as the "Cyborg Approach" which means I'm still in full control and the A.I. is only augmenting my natural capabilities.
 
 You can use YouTube audio remixing or include it into your YouTube playlist. If there's any problem, don't hesitate to ping me over the community posts!
 
-Otherwise, as of year 2025, the copyright for A.I output content is still very murky in both East and West countries. If you like this music, please head over to Udio (https://www.udio.com/) and create your very own, fully owned soundtrack!
-
 (2) Can you license the music for my project?
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-**NOT YET**.
+**NOT YET**
 
 Not until I figure out how deal with "after-the-fact" guarantees or legal workarounds with Udio. Pre-mature licensing can backfire easily.
 
@@ -43,17 +46,13 @@ That's the only reason I locked my musics under my proprietary license for now.
 
 (3) Is this another A.I. Slop?
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-**NO**.
+**NOT REALLY**
 
-Unlike A.I. Slop that fully automate all kinds of A.I. output disregarding audiences' appreciations and flooding the publishers with nonsense contents, I do listen to all my musics, edit, purge, and optimize them until it passed my quality baseline.
-
-Currently, the ratio of successful tracks you're hearing here is like 12/120 retries. Sometimes I got 1/120 retries or wrost: 0/120. Also, I process the lyrics (whenever applicable) on my own.
-
-As disclosed earlier, I only use A.I. with Cyborg approach; not full automation. Human is still in full control.
+I do listen to all my musics, edit, purge, and optimize them until it passed my quality baseline.
 
 (4) Why A.I. & Not Directly Invest Into Music Instruments?
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-**A.I. IS CHEAPER, LESS RISKY, AND NEW TO EXPLORE**.
+**A.I. IS CHEAPER, LESS RISKY, AND NEW TO EXPLORE**
 
 I'm a tech guy specialized in semi-automatic technologies. Personally, I love music but asking me to fully throw more than USD100k just to create a few musics in this economy is too much to ask. Moreover, the minimum amount of time and effort required to reach professional level is very unforgiving.
 
