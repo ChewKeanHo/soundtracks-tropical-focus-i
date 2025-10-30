@@ -8,7 +8,21 @@ work on tropical club house music. Here we are: the "Tropical Focus I".
 
 ```
 #electronicmusic #soundtrack #club #tropical #house
+
+  File: Audios/Tropical-Focus-I.mp3
+  Size: 12500992        Blocks: 24416      IO Block: 4096   regular file
+Access: 2025-10-30 19:56:39.585155503 +0800
+Modify: 2025-10-29 10:03:51.610321584 +0800
+Change: 2025-10-29 10:17:26.725721197 +0800
+ Birth: 2025-10-29 10:03:51.594321516 +0800
+
+On Published Date: 2025-10-29
+On YouTube since : 2025-11-01
 ```
+
+[YouTube](https://www.youtube.com/watch?v=-a_FlgJSR8w) |
+[Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 
 
 
@@ -29,11 +43,11 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Tropical Focus I
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-tropical-focus-i
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title   : Tropical Focus I
+Artist  : (Holloway) Chew, Kean Ho + UDIO
+SKU     : chewkeanho-soundtracks-tropical-focus-i
+License : (Holloway) Chew, Kean Ho's Proprietary License
+Procure : Coming Soon
 --------------------------------------------------------------------------------
 ```
 
