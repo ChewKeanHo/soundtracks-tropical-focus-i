@@ -20,9 +20,19 @@ On Published Date: 2025-10-29
 On YouTube since : 2025-11-01
 ```
 
-[YouTube](https://www.youtube.com/watch?v=-a_FlgJSR8w) |
-[Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+[YouTube](https://www.youtube.com/watch?v=-a_FlgJSR8w)
+
+* [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
+* [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
+* [Agreed Inkscape License](.internals/terms-of-services/Inkscape_License.pdf)
+* [Agreed Inkscape Privacy Policy](.internals/privacy-policy/Inkscape-Privacy-Policy.pdf)
+* [Agreed (Holloway) Chew, Kean Ho's Upscaler License](.internals/terms-of-services/Upscaler_LICENSE.txt)
+* [Agreed Perchance.org Terms of Service](.internals/terms-of-services/PerchanceORG_Terms-of-Service.pdf)
+* [Agreed Perchance.org Privacy Policy](.internals/privacy-policy/PerchanceORG-Privacy-Policy.pdf)
+* [Agreed OBS License](.internals/terms-of-services/OBS_LICENSE.txt)
+* [Agreed OBS Waveform License](.internals/terms-of-services/OBS_Waveform_LICENSE.txt)
+* [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf)
+* [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 
 
 
