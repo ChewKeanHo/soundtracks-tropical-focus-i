@@ -18,10 +18,14 @@ Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjlFJMmnpXUO6EWpG8b
 
 § METADATA
 ━━━━━━━━━━
-Music made in: https://www.udio.com/
-Project by: (Holloway) Chew, Kean Ho
-Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: https://github.com/ChewKeanHo/soundtracks-tropical-focus-i
+Title: Tropical Focus I
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-tropical-focus-i
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Procure: https://github.com/ChewKeanHo/soundtracks-tropical-focus-i
 
 
 § FAQ
